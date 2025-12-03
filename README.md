@@ -35,6 +35,6 @@ To contribute to this project, follow the [Contributing Guidelines](CONTRIBUTING
 
 ## 📄License
 ```
-PerfectTea Python Packages License (PTPP v1.0)
+MIT License.
 Read the License file for more information.
 ```
