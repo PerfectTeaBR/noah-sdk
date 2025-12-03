@@ -29,6 +29,8 @@ def your_oauth_name():
 
 ## 📚 Documentation
 To read the project documentation, open the [docs](/docs) folder.
+ - Docs:
+   - [About the SDK](/docs/ABOUT.md) 
 
 ## 💁 Contributing
 To contribute to this project, follow the [Contributing Guidelines](CONTRIBUTING.md), You have to read this to contribute to the project.
